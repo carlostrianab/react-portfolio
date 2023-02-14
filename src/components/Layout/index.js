@@ -16,7 +16,6 @@ const Layout = () =>{
                     &lt;/body&gt;
                     <br/>
                     <span className='tags top-tags'> &lt;/html&gt;</span>
-                    
                 </span>
             </div>
         </div>
