@@ -1,5 +1,5 @@
 import './index.scss'
-import LogoS from '../../../assets/images/logo-s.png'
+import cLogo from '../../../assets/images/c-logo.png'
 import { useEffect, useRef } from 'react'
 // import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
 // import gsap from 'gsap-trial'
@@ -42,7 +42,7 @@ const Logo = () => {
         <div className="logo-container" ref={bgRef}>
       <img
         className="solid-logo"
-        src={LogoS}
+        src={cLogo}
         alt="JavaScript,  Developer"
         ref={solidLogoRef}
       />
