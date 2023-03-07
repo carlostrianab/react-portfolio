@@ -38,12 +38,12 @@ const Home = () => {
                 strArray={jobArray}
                 idx={22}/>
                 </h1>
-                <h2> FrontEnd Developer / Javascript Expert / Youtuber </h2>
+                <h2> Frontend Developer / JavaScript  / Python / ReactJS </h2>
                 <Link to='/Contact' className='flat-button'>CONTACT ME </Link>
             </div>
             <Logo/>
             </div>
-            <Loader type='pacman'/>
+            <Loader type='ball-scale-ripple-multiple'/>
         </>
         
     );

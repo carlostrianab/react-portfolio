@@ -25,7 +25,7 @@ const Sidebar = () =>(
     </nav>
     <ul>
         <li>
-           <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/carlos-triana-77717a139/'>
+           <a target="_blank" rel="noreferrer" href='https://www.linkedin.com/in/carlosalbertotrianabrigante-frontenddeveloper/'>
                 <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e"/>
 
             </a> 

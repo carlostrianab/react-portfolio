@@ -26,13 +26,21 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    Paragraph 1
+                    I’m Carlos Triana, a junior front-end developer with an MSc in computing at Roehampton university. <br/> 
+                    I’m a hardworking, honest individual with good time management skills, that can work independently <br/> 
+                    in busy environments but also within a team setting. I consider myself a friendly individual that is open <br/>
+                    and listens effectively when solving problems and a good communicator, able to identify or <br/>
+                    communicate the requirement that a project has. 
                 </p>
                 <p>
-                    Paragraph 2
+                    I have an always student mentality, which enables me to be highly enthusiastic to learn new things <br/>
+                    and undertake new challenges. My current skillset includes Python and JavaScript programming languages, <br/> 
+                    being able to achieve clever solutions to complex problems using algorithms and data structures. Frontend  <br/>
+                    frameworks and libraries like ReactJS, and Bootstrap as well as a deep understanding of HTML5 and CSS3. 
                 </p>
                 <p>
-                    Paragraph 3
+                    Also, I have a clear understanding of all the components of a full-stack application, having worked with nodeJS <br/> 
+                    and its library expressJS to connect APIs and Databases (MySQL and MongoDB) with the front end.
                 </p>
 
             </div>
@@ -59,7 +67,7 @@ const About = () => {
                 </div>
             </div>
             </div>
-            <Loader type= "pacman"/>
+            <Loader type= "ball-scale-ripple-multiple"/>
         </>
         
     )

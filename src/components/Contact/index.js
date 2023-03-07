@@ -51,7 +51,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        Paragraph 1 
+                        If you wan't to contact me to be part of your project fill this form! 
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>
@@ -96,7 +96,7 @@ const Contact = () => {
                     </MapContainer>
                 </div>
             </div>
-            <Loader type='pacman'/>
+            <Loader type='ball-scale-ripple-multiple'/>
         </>
     )
 }

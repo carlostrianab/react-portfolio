@@ -1,5 +1,5 @@
 .contact-form{
-    width: 100%;
+    width: 85%;
     margin-top: 20px;
 
     ul{
@@ -76,10 +76,10 @@
 .info-map{
     position: absolute;
     background-color: #000;
-    top: 50px;
-    right: 30%;
+    top: 30px;
+    right: 23%;
     z-index: 999999;
-    width: 267px;
+    width: 20%;
     padding: 20px;
     color: #fff;
     font-family: 'Helvetica';
@@ -101,17 +101,16 @@
 .map-wrap{
     background: rgba(8, 253, 216, 0.1);
     float: right;
-    width: 53%;
+    width: 50%;
     height: 100%;
 }
 
 .leaflet-container{
-    width: 100%;
+    left: 3%;
+    width: 95%;
     height: 100%;
-    position: relative;
+    position:relative;
     opacity: 0;
     animation: backInRight 1s 1.2s;
     animation-fill-mode: forwards;
-
-
 }
