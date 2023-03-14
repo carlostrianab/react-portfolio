@@ -4,6 +4,16 @@ $primary-color: #0F70B7;
 @import 'loaders.css/src/animations/ball-scale-ripple-multiple.scss';
 
 @font-face {
+  font-family: 'Code';
+  src: url('./assets/fonts/Code.ttf') format('ttf');
+ }
+
+ @font-face {
+  font-family: 'Poppins-Thin';
+  src: url('./assets/fonts/Poppins-Thin.ttf') format('ttf');
+ }
+
+@font-face {
  font-family: 'Helvetica Neue';
  src: url('./assets/fonts/helvetica-neu.ttf') format('ttf');
 }
@@ -21,7 +31,7 @@ $primary-color: #0F70B7;
 
  input, 
  textarea{
-  font-family:'helvetica-neu'
+  font-family:'Poppins-EB'
  }
 
  .loader-active{
